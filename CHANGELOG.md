@@ -1,5 +1,11 @@
+# v0.4.2
+## 02/10/2015
+
+1. [](#fix)
+    * US date on changelog
+
 # v0.4.1
-## 10/02/2015
+## 02/10/2015
 
 1. [](#new)
     * Add redirect to referer page after login instead of home page
@@ -12,7 +18,7 @@
     * Clean repo
 
 # v0.3.6
-## 09/02/2015
+## 02/09/2015
 
 1. [](#new)
     * Multi User
@@ -24,14 +30,14 @@
 
 
 # v0.2.1
-## 07/02/2015
+## 02/07/2015
 
 1. [](#new)
     * Login page directly include on plugin
     * New Login Template
 
 # v0.1.0
-## 07/02/2015
+## 02/07/2015
 
 1. [](#new)
     * First Commit
