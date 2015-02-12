@@ -1,3 +1,9 @@
+# v0.4.3
+## 02/12/2015
+
+1. [](#fix)
+    * Fix conflict with other plugins (issue #1)
+
 # v0.4.2
 ## 02/10/2015
 

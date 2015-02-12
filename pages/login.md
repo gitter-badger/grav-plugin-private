@@ -1,6 +1,6 @@
 ---
 title: Login
 robots: noindex,nofollow
-template: login
+template: default
 ---
 Login Page
