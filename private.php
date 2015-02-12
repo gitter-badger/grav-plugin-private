@@ -138,7 +138,6 @@ class PrivatePlugin extends Plugin
     {
        
         $loginpage = new Page;
-        $loginpage->init(new \SplFileInfo(__DIR__ . '/pages/login.md'));
             
         unset($this->grav['page']);
         $this->grav['page'] = $loginpage;
