@@ -138,15 +138,15 @@ class PrivatePlugin extends Plugin
     {
        
         $loginpage = new Page;
-            
+        $loginpage->init(new \SplFileInfo(__DIR__ . '/pages/login.md'));
+        
         unset($this->grav['page']);
         $this->grav['page'] = $loginpage;
 
         $page   = $this->grav['page'];
         $twig   = $this->grav['twig'];
         $uri    = $this->grav['uri'];
-
-        $options = $this->grav['config']->get('plugins.private');
+        $options = (array) $this->grav['config']->get('plugins.private');
 
         if ( $_SERVER['REQUEST_METHOD'] == "POST") {
             if ( false === $this->validateFormData() ) {
