@@ -1,5 +1,7 @@
 # Private Grav Plugin
 
+[![Join the chat at https://gitter.im/Lidsacae/grav-plugin-private](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Lidsacae/grav-plugin-private?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 `Private` is a [Grav](http://github.com/getgrav/grav) Plugin.
 
 It provide an authentication form to keep your Grav site or part of it private.
